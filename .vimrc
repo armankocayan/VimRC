@@ -1,9 +1,11 @@
 syntax on
 set nocompatible
 set number
+set autoindent
 set tabstop=4
 set softtabstop=4
 set expandtab
+set shiftwidth=4
 set showcmd
 set wildmenu
 set lazyredraw
